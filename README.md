@@ -9,3 +9,8 @@ Hi there 👋
  📫 How to reach me: abdulrahmanawan004@gmail.com..
  ❤️ I love Coding till tired..
  ⚡ Fun fact: no fun serious to code otherwise bug occur..
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
