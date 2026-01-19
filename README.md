@@ -28,7 +28,7 @@ abdul-rahman-a95076338
 ```yaml
 name: abdul rahman
 located_in: Kotli AJ&K 
-current_job: React Developer
+current_job: Backend Developer
 education:
   [
     "Self-Taught Developer and Designer",
