@@ -39,8 +39,6 @@ company: barqibazar.org
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
     "UI/UX",
     "DevOps",
   ]
@@ -50,10 +48,8 @@ technical_background:
     "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
   ]
-  
-currently_learning: ["Node.js  and React.js"]
 2025 Goals: ["Create Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Gaming", "Skateboarding", "Art", "Comedy"]
 ```
   
 ---  
